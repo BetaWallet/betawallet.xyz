@@ -1,0 +1,27 @@
+{
+  "name": "betawallet.xyz",
+  "version": "1.0.0",
+  "description": "website for betawallet",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BetaWallet/betawallet.xyz.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BetaWallet/betawallet.xyz/issues"
+  },
+  "homepage": "https://github.com/BetaWallet/betawallet.xyz#readme",
+  "dependencies": {
+    "next": "^12.1.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
